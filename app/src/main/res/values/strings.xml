@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trip Scheduler</string>
+    <string name="new_trip">+</string>
+    <string name="new_active_trip_label">Trip name</string>
+    <string name="start_date">Start date</string>
+    <string name="start_time">Start time</string>
+    <string name="pick_time">Pick time</string>
+    <string name="pick_date">Pick date</string>
+    <string name="mark_as_ready">Mark stop as ready</string>
+    <string name="place">Place</string>
+    <string name="complete_trip">Complete trip</string>
+    <string name="delete_trip">Delete trip</string>
+    <string name="no_added_stops">No added stops</string>
+    <string name="no_added_trips">No added trips</string>
+</resources>
